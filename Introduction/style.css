@@ -1,0 +1,29 @@
+* {
+    text-align: center;
+}
+
+body {
+    background: #282a36;
+}
+
+h1,
+strong {
+    color: #ff79c6;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+h2,
+p {
+    color: #f8f8f2;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 30px;
+}
